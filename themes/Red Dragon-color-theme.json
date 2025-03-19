@@ -1,7 +1,6 @@
 {
 	"name": "Red Dragon",
 	"colors": {
-		// "editor.background": "#1A0B0C"", Alternate background color
 		"editor.background": "#0e0506",
 		"editor.foreground": "#4a4d4e",
 		"editor.findMatchBackground": "#0e0506",
